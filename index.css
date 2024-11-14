@@ -24,6 +24,11 @@ nav ul{
 nav ul li{
 font-weight: bold;
 }
+
+nav ul li a{
+  text-decoration: none;
+  color: white;
+}
 header {
   display: flex;
   flex-direction: column;
